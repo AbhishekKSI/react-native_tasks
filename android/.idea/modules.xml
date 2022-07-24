@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invedus.iml" filepath="$PROJECT_DIR$/.idea/modules/invedus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/invedus.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/invedus.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/invedus.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/invedus.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/invedus.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/invedus.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/invedus.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/invedus.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1682951349/invedus.react-native-community_checkbox.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1378154661/invedus.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-438234057/invedus.react-native-firebase_database.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/408425727/invedus.react-native-firebase_storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1554729220/invedus.react-native-image-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/863908008/invedus.react-native-lottie-splash-screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1473076963/invedus.react-native-picker_picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/620583211/invedus.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-980212989/invedus.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1056702571/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

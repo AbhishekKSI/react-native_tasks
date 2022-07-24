@@ -1,0 +1,6 @@
+module Pods_invedus_invedusTests {
+  umbrella header "Pods-invedus-invedusTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_invedus {
+  umbrella header "Pods-invedus-umbrella.h"
+
+  export *
+  module * { export * }
+}
